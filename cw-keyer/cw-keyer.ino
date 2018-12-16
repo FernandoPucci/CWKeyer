@@ -401,8 +401,7 @@ void menu(int m){
   case 3:
  
     lcd.setCursor(0,1); 
-    lcd.print("-
- Memoria");
+    lcd.print("-Gravar Memoria");
     break;
     //case 3:
  
@@ -1194,4 +1193,3 @@ void beep(){
 //  traco();
 //  delay(ditTime); 
 //
-//}
